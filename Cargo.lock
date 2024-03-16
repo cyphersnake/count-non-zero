@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "count-non-zero"
-version = "0.2.0"
+name = "count-to-non-zero"
+version = "0.3.0"
