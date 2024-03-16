@@ -1,9 +1,10 @@
 [package]
 name = "count-non-zero"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["cyphersnake"]
 description = "Extends Rust's Iterator trait to include a `count_non_zero` method, returning an Option<NonZeroUsize> for a more expressive and type-safe way of counting elements. This crate provides a convenient and idiomatic approach to obtaining non-zero element counts from iterators, enhancing code readability and safety by leveraging Rust's type system. Perfect for applications where distinguishing between empty and non-empty iterators is crucial, without the overhead of manual count checks."
+repository = "https://github.com/cyphersnake/count-non-zero.git"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
